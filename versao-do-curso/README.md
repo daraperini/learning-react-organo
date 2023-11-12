@@ -7,9 +7,4 @@ Experimente as funcionalidades desse projeto:
   - Favorite ou exclua participantes;
   - Altere as cores dos times;
   - Crie novos times, e então adicione participantes nesses novos times!
-
-## Feito por:
-
-### Dara Lahm Perini
-
-### Linkedin: https://www.linkedin.com/in/dara-lahm-perini/
+  - 
