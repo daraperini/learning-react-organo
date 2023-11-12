@@ -1,0 +1,23 @@
+.rodape {
+    background-color: #6278F7;
+    background-image: url("/public/imagens/fundo.png");
+    color: #fff;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 64px 0;
+}
+
+.rodape .listaDeLinks {
+    display: flex;
+    gap: 32px;
+    list-style: none;
+}
+
+.rodape .listaDeLinks img {
+    width: 20px;
+}
+
+.rodape .logo img {
+    width: 170px;
+}
