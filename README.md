@@ -1,10 +1,12 @@
 # Organo
 
-Esse projeto se iniciou no curso React: desenvolvendo com JavaScript, da Alura, e ganhou duas versões: A versão dos cursos e a minha versão pessoal. Ambas as versões são chamadas Organo, um site criado com o objetivo de organizar times.
+Esse projeto se iniciou no curso React: desenvolvendo com JavaScript, da Alura, e ganhou três versões: A versão dos cursos, a minha versão pessoal e uma versão em TypeScript. Todas as versões são chamadas Organo, um site criado com o objetivo de organizar times.
 
 Na versão do curso você encontrará alguns mecanismos extras do da minha versão pessoal, sendo que este foi desenvolvido a partir do estudo conceitual do React. Nele você pode alterar o DOM de acordo com seu gosto, além de adicionar novos times, deletar participantes e favoritá-los.
 
 Meu projeto foi desenvolvido pensando na utilização do Organo para a organização de jogadores de Valorant de acordo com seu role e o personagem de preferência.
+
+Já a versão escrita em TypeScript foi realizada a partir do projeto base do Organo. Nessa versão utilizei o projeto inicial feito em JS e passei todos os componentes para TS.
 
 ## Iniciando as versões do projeto na sua máquina
 
