@@ -29,7 +29,7 @@ And the TypeScript version was done using Organo's base project. I used the init
     - npm install (to install all project's dependencies)
     - npm start (to open the project on your browser)
  
-* In case the project does not opend Caso o projeto não abra automatically type http://localhost:3000 on your browser
+* In case the project does not opend automatically type http://localhost:3000 on your browser
 
 
 #
