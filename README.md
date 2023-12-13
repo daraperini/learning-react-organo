@@ -4,7 +4,9 @@ My (first!) React project was firstly created during Alura's class *React: devel
 
 In the class' version you'll se some extra mecanisms that are not in my personal version as it was created from React's theoretic studies. You can alter the DOM as you wish, add new teams, delete team members and mark them as favorites in this version.
 
-To see the final result, click [here](https://portfolio-alura-ecru-two.vercel.app/).
+My own version was developed thinking about the organization of Valorant players sorting them according to their *roles* and preferred character.
+
+And the TypeScript version was done using Organo's base project. I used the initial project that was done in JS and refactored the components in TS.
 
 ## Used tools:
 
@@ -40,7 +42,7 @@ Na versão do curso você encontrará alguns mecanismos extras do da minha vers�
 
 Meu projeto foi desenvolvido pensando na utilização do Organo para a organização de jogadores de Valorant de acordo com seu *role* e o personagem de preferência.
 
-Já a versão escrita em TypeScript foi realizada a partir do projeto base do Organo. Nessa versão utilizei o projeto inicial feito em JS e passei todos os componentes para TS.
+Já a versão escrita em TypeScript foi realizada a partir do projeto base do Organo. Nessa versão utilizei o projeto inicial feito em JS e refatorei todos os componentes usando TS.
 
 ## Ferramentas utilizadas:
 
